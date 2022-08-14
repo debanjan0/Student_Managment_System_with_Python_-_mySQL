@@ -1,0 +1,1 @@
+# Student_Managment_System_with_Python_-_mySQL
